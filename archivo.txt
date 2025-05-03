@@ -1,0 +1,7 @@
+r1.velocidad=10
+,
+.
+=
+10
+base
+#
